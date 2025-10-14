@@ -5,7 +5,7 @@ I'm Lucas, a Math and Computer Science student at the University of Texas at Aus
 2. Optimize my life.
 
 Follow my twitter and connect with me on LinkedIn.
-If you ever have any questions about what I'm doing (my projects will be uploaded soon), reach out. I love meeting people.
+If you ever have any questions about what I'm doing (my projects will be uploaded soon), reach out. 
 
 
 <!--
