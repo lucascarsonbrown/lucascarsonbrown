@@ -1,4 +1,12 @@
-## Hi there 👋
+# About Me
+
+I'm Lucas, a Math and Computer Science student at the University of Texas at Austin. I build things to:
+1. Explore the world of mathematics.
+2. Optimize my life.
+
+Follow my twitter and connect with me on LinkedIn.
+If you ever have any questions about what I'm doing (my projects will be uploaded soon), reach out. I love meeting people.
+
 
 <!--
 **lucascarsonbrown/lucascarsonbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
